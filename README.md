@@ -1,9 +1,12 @@
-Analizando datos con R (Open Analytics 2014)
+Analizando datos con R 
 ==================
-Jorge Ayuso Rejas
+## Open Analytics 2014
+Jorge Ayuso Rejas    
+Presentación: http://jayusor.github.io/openanalytics_2014
 
-* jorge.ayuso@conento.com
-* @jayusor
+
+* Mail:    jorge.ayuso@conento.com
+* Twitter: @jayusor
 
 Material sobre la charla "Analizando datos con R".
 
